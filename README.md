@@ -1,3 +1,9 @@
+PCOS Kenya — Women’s Health Information Platform
+
+Welcome to PCOS Kenya, a platform dedicated to raising awareness about Polycystic Ovary Syndrome (PCOS) and improving women’s health access in Kenya. This project bridges medical research, local healthcare resources, and community support, making knowledge, guidance, and connection accessible to all.
+
+You can read more about this mission in my article:(https://naswams.hashnode.dev/six-data-backed-facts-that-rewrite-the-pcos-narrative-pcos-is-often-misunderstood-but-data-from-this-analysis-challenges-common-myths-and-calls)
+
 Project Title
 PCOS Insights: A Public-Focused Analytics Tool
 ________________________________________
